@@ -13,7 +13,7 @@ yaourt -S pacaur
 # Install applications
 pacaur -S git dropbox
 pacaur -S slack-desktop
-pacaur -S gitkraken sublime-text 
+pacaur -S gitkraken sublime-text-dev 
 pacaur -S texlive-2017
 pacaur -S i3-gaps-git
 pacman -S dmenu
